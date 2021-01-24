@@ -29,6 +29,6 @@ plugins=(git osx kubectl docker brew)
 ```bash
 ZSH_THEME="livan"
 ```
-![console](images/console.png)
+![console image](images/console.png)
 
 
