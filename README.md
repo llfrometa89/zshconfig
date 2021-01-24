@@ -1,13 +1,12 @@
 # zshconfig
-My personal configuration of zsh shell
+My personal configuration of zsh shell.
 
 ## Prerequisites
 - A Unix-like operating system: macOS, Linux, BSD. On Windows: WSL2 is preferred, but cygwin or msys also mostly work.
 - [Zsh](https://www.zsh.org/) should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer). If not pre-installed (run §zsh --version` to confirm), check the following wiki instructions here: [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) be installed.\
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) be installed.
 
 ## Configuration
-
 
 ### Plugins
 Oh My Zsh comes with a shitload of plugins for you to take advantage of. You can take a look in the [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) directory to see what's currently available.
