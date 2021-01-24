@@ -8,6 +8,11 @@ My personal configuration of zsh shell.
 
 ## Configuration
 
+```bach
+$ git clone git@github.com:llfrometa89/zshconfig.git
+$ cd zshconfig
+```
+
 ### Plugins
 Oh My Zsh comes with a shitload of plugins for you to take advantage of. You can take a look in the [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) directory to see what's currently available.
 
@@ -27,6 +32,8 @@ plugins=(git osx kubectl docker brew)
 ### Theme
  We will find have over one hundred and fifty themes in Oh My Zsh. But I created my own theme based in **jonathan** theme. My theme is called `livan` and you can find it in the theme folder. For apply my theme you should modify your `.zshrc` file.
 ```bash
+$ cp zshconfig/theme/livan.zsh-theme $ZSH/themes
+$ vi ~/.zshrc
 ZSH_THEME="livan"
 ```
 ![console image](images/console.png)
