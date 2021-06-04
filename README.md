@@ -5,6 +5,7 @@ My personal configuration of zsh shell.
 - A Unix-like operating system: macOS, Linux, BSD. On Windows: WSL2 is preferred, but cygwin or msys also mostly work.
 - [Zsh](https://www.zsh.org/) should be installed (v4.3.9 or more recent is fine but we prefer 5.0.8 and newer). If not pre-installed (run §zsh --version` to confirm), check the following wiki instructions here: [Installing ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) be installed.
+- Install: https://github.com/powerline/fonts. iTerm2 users need to set both the Regular font and the Non-ASCII Font in "iTerm > Preferences > Profiles > Text" to use a patched font. In my case I using `Meslo for Powerline`
 
 ## Configuration
 
